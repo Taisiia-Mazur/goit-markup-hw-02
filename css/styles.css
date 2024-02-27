@@ -1,7 +1,6 @@
 body {
   background-color: #fff;
   color: #434455;
-  width: 1440px;
   font-family: "Roboto", sans-serif;
   margin: 0;
   font-size: 16px;
@@ -55,6 +54,7 @@ ul {
   line-height: 1.07;
   letter-spacing: 0.02em;
   color: #fff;
+text-align: center;
 }
 
 button {
@@ -64,7 +64,6 @@ button {
   letter-spacing: 0.04em;
   color: #fff;
   cursor: pointer;
-  border: none;
 }
 
 .button:hover,
